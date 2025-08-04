@@ -116,6 +116,18 @@
     "百万资源": {
       "api": "https://api.baiwanapi.com/api.php/provide/vod",
       "name": "百万资源"
+    },
+    "金马资源": {
+      "api": "https://api.jmzy.com/api.php/provide/vod",
+      "name": "金马资源"
+    },
+    "电影天堂资源": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "电影天堂资源"
+    },
+    "无线资源": {
+      "api": "https://api.wuxianzy.net/api.php/provide/vod",
+      "name": "无线资源"
     }
   }
 }
